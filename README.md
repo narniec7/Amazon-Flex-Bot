@@ -4,7 +4,7 @@
 
 > **Looking for tools?** Visit **[flexcatcher.app](https://flexcatcher.app)** for on-device block filtering — free trial, no login required, no cloud servers.
   
-> In-depth technical guides: **[blog.flexcatcher.app](https://blog.flexcatcher.app)**
+> In-depth guides: **[How Flex bots work](https://blog.flexcatcher.app/how-amazon-flex-bots-work/)** · **[Why accounts get flagged](https://blog.flexcatcher.app/cloud-bots-dangers/)** · **[CAPTCHA jail](https://blog.flexcatcher.app/captcha-jail/)** · **[Speed vs. safety comparison](https://blog.flexcatcher.app/best-alternatives/)**
 
 Honest research on Amazon Flex bots, Amazon Flex block grabbers, flex grabbers, auto-tappers, auto clickers, and block catchers.  
 Which Amazon Flex automation tools survive detection, which get accounts flagged —  
@@ -45,6 +45,8 @@ Amazon's fraud detection analyzes multiple signals simultaneously. The most comm
 
 Cloud-based Amazon Flex bots trigger multiple signals at once. On-device tools avoid most of them by design.
 
+→ Full breakdown: **[Why Amazon Flex bots get accounts flagged — and how to avoid it](https://blog.flexcatcher.app/cloud-bots-dangers/)**
+
 ---
 
 ## How Amazon Flex Detects Block Bots & Auto Tappers
@@ -58,6 +60,8 @@ Amazon doesn't disclose their exact detection methods, but from our testing and 
 | 3. Temporary Hold | Account locked, requires contacting support |
 | 4. Deactivation | Permanent. Rarely reversed. |
 
+→ What counts against your standing and how to avoid it: **[Amazon Flex issues explained](https://blog.flexcatcher.app/amazon-flex-issues-how-to-avoid/)**
+
 ---
 
 ## CAPTCHA Jail — Even Manual Drivers Get Hit (No Bot Required)
@@ -67,6 +71,8 @@ Manual refreshing at high frequency triggers Amazon's CAPTCHA system — no Amaz
 > *"I'm a regular user (no bot) only refresh..refresh..refresh and start getting CAPTCHA every time I tried to schedule a block. The result is ZERO BLOCKS because when you waste time solving the CAPTCHA the block is gone away by a BOT USER."*
 
 **Lesson**: excessive manual refreshing looks the same as an Amazon Flex auto tapper to Amazon's systems. Tools with human-like randomized timing avoid CAPTCHA triggers entirely. This is the hidden cost of not using an Amazon Flex helper — you get punished for refreshing like a bot, even when you're not one.
+
+→ Full guide: **[Amazon Flex CAPTCHA jail: why even manual drivers get blocked](https://blog.flexcatcher.app/captcha-jail/)**
 
 ---
 
@@ -82,6 +88,8 @@ On-device block catcher tools work fundamentally differently from cloud-based Am
 
 From Amazon's perspective, this matches normal phone interactions. In our 6-week test, accounts using this on-device pattern had zero warnings — unlike every cloud-based Amazon Flex block grabber tested.
 
+→ Step by step: **[How Amazon Flex bots actually work](https://blog.flexcatcher.app/how-amazon-flex-bots-work/)**
+
 ---
 
 ## What to Look For in an Amazon Flex Bot or Block Grabber
@@ -94,6 +102,8 @@ If you're considering any Amazon Flex automation tool — whether it's called a 
 4. **Does it filter blocks or accept everything?** Accepting every block blindly is just as suspicious as tapping too fast.
 5. **Does it use VPNs?** VPNs make detection more likely, not less.
 
+→ Compare the options: **[Amazon Flex block grabber: speed vs. safety](https://blog.flexcatcher.app/best-alternatives/)** · **[Auto-tappers: how they work and what to watch for](https://blog.flexcatcher.app/auto-tapper-guide/)**
+
 ---
 
 ## See the Full Analysis
@@ -101,8 +111,18 @@ If you're considering any Amazon Flex automation tool — whether it's called a 
 For the complete comparison with detailed detection data, pricing breakdowns, and some bonuses:  
 → **[flexcatcher.app](https://flexcatcher.app)**
 
-For in-depth technical guides on Amazon Flex bots, block grabbers, and safer alternatives:  
-→ **[blog.flexcatcher.app](https://blog.flexcatcher.app)**
+In-depth guides on Amazon Flex bots, block grabbers, and safer alternatives — **[blog.flexcatcher.app](https://blog.flexcatcher.app/)**:
+
+- [Amazon Flex bot & flex grabber: what works and what gets you banned](https://blog.flexcatcher.app/)
+- [How Amazon Flex bots actually work](https://blog.flexcatcher.app/how-amazon-flex-bots-work/)
+- [Auto-tappers for Amazon Flex: how they work and what to watch for](https://blog.flexcatcher.app/auto-tapper-guide/)
+- [Amazon Flex block grabber options: speed vs. safety](https://blog.flexcatcher.app/best-alternatives/)
+- [Why Amazon Flex bots get accounts flagged](https://blog.flexcatcher.app/cloud-bots-dangers/)
+- [Amazon Flex issues: what they are and how to avoid them](https://blog.flexcatcher.app/amazon-flex-issues-how-to-avoid/)
+- [Amazon Flex CAPTCHA jail: why even manual drivers get blocked](https://blog.flexcatcher.app/captcha-jail/)
+- [How to get more Amazon Flex blocks — legit tips](https://blog.flexcatcher.app/how-to-get-more-blocks/)
+- [Amazon Flex Start Soon: what it means for drivers](https://blog.flexcatcher.app/amazon-flex-start-soon/)
+- [Amazon Flex Request tab explained](https://blog.flexcatcher.app/amazon-flex-request-blocks-update/)
 
 ---
 
